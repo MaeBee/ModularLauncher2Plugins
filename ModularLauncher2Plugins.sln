@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularLauncher2Launch", "ModularLauncher2Launch\ModularLauncher2Launch.csproj", "{3D42A082-72C9-4697-896A-83F48982A801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularLauncher2RSS", "ModularLauncher2RSS\ModularLauncher2RSS.csproj", "{5588C903-11AF-4417-90D7-C749FC9125CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D42A082-72C9-4697-896A-83F48982A801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D42A082-72C9-4697-896A-83F48982A801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D42A082-72C9-4697-896A-83F48982A801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D42A082-72C9-4697-896A-83F48982A801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5588C903-11AF-4417-90D7-C749FC9125CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5588C903-11AF-4417-90D7-C749FC9125CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5588C903-11AF-4417-90D7-C749FC9125CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5588C903-11AF-4417-90D7-C749FC9125CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
